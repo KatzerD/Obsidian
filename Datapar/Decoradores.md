@@ -1,0 +1,6 @@
+[[@Entity]]
+[[@Table]]
+[[@Column]]
+[[@Id]]
+[[@GeneratedValue]]
+[[@Temporal]]

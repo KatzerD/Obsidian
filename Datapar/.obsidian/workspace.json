@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "da42efb1729102c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "045e33d18b042f19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bba01a21b5a33c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e720ac4d5f98c4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EntityManager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "091ed7099d67d816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decoradores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4cd687da16c4ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d93b4c6e44cf0fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6233568316e0984a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "caa2c0fd343d3bf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f0a138625a3b091",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "451a6965626b3b16",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bf1f1733d3292e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "791773f24f371e7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EntityManager.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c2a0e766e55bfe2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EntityManager.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0564030b52a1ddc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0a91a5ef4d0fe46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EntityManager.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e720ac4d5f98c4d5",
+  "lastOpenFiles": [
+    "Java/JPA.md",
+    "@Entity.md",
+    "DAO.md",
+    "EntityManager.md",
+    "Decoradores.md",
+    "H2 Database.md",
+    "Spring/Spring Boot.md",
+    "Base de datos.md",
+    "Spring/Anotations/Contexto/@SessionScope.md",
+    "Spring/Anotations/Contexto/Contexto.md",
+    "Java/Metodos de List/Metodos de List.md",
+    "Java/Java.md",
+    "Spring/Anotations/Contexto/@ApplicationScope.md",
+    "Spring/Anotations/Contexto",
+    "Spring/Anotations/Sin título.md",
+    "Spring/Anotations/Componentes/@PostConstruct.md",
+    "Spring/Anotations/@Configuration.md",
+    "Spring/Anotations/Componentes/Ciclo de vida.md",
+    "Spring/Anotations/Componentes/@PreDestroy.md",
+    "Spring/Anotations/Contexto/@RequestScope.md",
+    "Spring/Anotations/Componentes/Registrar Componentes.md",
+    "Spring/Anotations/Anotations.md",
+    "Spring/Anotations/Componentes/@Component.md",
+    "Spring/POJO.md",
+    "Spring/Anotations/Componentes",
+    "Spring/Anotations/Componentes/@Bean.md",
+    "@AutoWirde.md",
+    "Spring/Anotations/Componentes/@AutoWired.md",
+    "Carga/Redirect",
+    "Carga",
+    "Java/Metodos de List",
+    "Java",
+    "Spring/Dependencias",
+    "Spring/Anotations",
+    "Spring",
+    "Angular",
+    "_assets/Pasted image 20231115144258.png"
+  ]
+}
