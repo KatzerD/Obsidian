@@ -31,5 +31,9 @@ public class IndexController {
 Esto es útil por ejemplo al crear un CRUD, donde cada metodo es una direccion url  `/listar`, `/borrar`, `/modificar`, etc.
 Y se accedería mediante
 `/app/listar`...
-
 [[Anotations]]
+# Tipos de Mapeo
+[[@GetMapping]]
+[[@PostMapping]]
+[[@PutMapping]]
+[[@DeleteMapping]]

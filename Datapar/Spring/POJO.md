@@ -7,6 +7,6 @@ Los Modelos de la capa Model deben cumplir con estos requisitos.
 La nomenclatura utilizada para el paquete donde se guardan las clases POJO pueden ser
 - .pojo
 - .domain
-- entity
+- .entity
 
 [[Spring Boot]]

@@ -1,0 +1,1 @@
+Elimina la entidad.

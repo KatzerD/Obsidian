@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bba01a21b5a33c99",
+            "id": "76929fad4fb84aab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JPA.md",
+                "file": "Spring/Anotations/@RequestMapping.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e720ac4d5f98c4d5",
+            "id": "10eb3156657c1a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EntityManager.md",
+                "file": "@GetMapping.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "091ed7099d67d816",
+            "id": "4746144c0ff0731e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decoradores.md",
+                "file": "messages.properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "451a6965626b3b16",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EntityManager.md",
+                "file": "@GetMapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EntityManager.md",
+                "file": "@GetMapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EntityManager.md"
+                "file": "@GetMapping.md"
               }
             }
           }
@@ -171,36 +172,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e720ac4d5f98c4d5",
+  "active": "10eb3156657c1a3a",
   "lastOpenFiles": [
-    "Java/JPA.md",
-    "@Entity.md",
+    "Spring/Anotations/@RequestMapping.md",
+    "@GetMapping.md",
+    "Reglas de validación.md",
+    "Spring/Anotations/@RequestParam.md",
+    "Spring/Anotations/@PathVariable.md",
+    "messages.properties.md",
+    "@NotNull.md",
+    "@Size.md",
+    "@NotEmpty.md",
+    "Entidades.md",
+    "@Temporal.md",
+    "@DateTimeFormat.md",
     "DAO.md",
+    "persist(Object entity).md",
+    "find(Class entity, Object primaryKey).md",
     "EntityManager.md",
-    "Decoradores.md",
-    "H2 Database.md",
-    "Spring/Spring Boot.md",
-    "Base de datos.md",
-    "Spring/Anotations/Contexto/@SessionScope.md",
-    "Spring/Anotations/Contexto/Contexto.md",
-    "Java/Metodos de List/Metodos de List.md",
-    "Java/Java.md",
-    "Spring/Anotations/Contexto/@ApplicationScope.md",
-    "Spring/Anotations/Contexto",
-    "Spring/Anotations/Sin título.md",
-    "Spring/Anotations/Componentes/@PostConstruct.md",
-    "Spring/Anotations/@Configuration.md",
-    "Spring/Anotations/Componentes/Ciclo de vida.md",
+    "remove(Object entity).md",
+    "merge(Object entity).md",
+    "@Transactional.md",
+    "Interceptores.md",
     "Spring/Anotations/Componentes/@PreDestroy.md",
-    "Spring/Anotations/Contexto/@RequestScope.md",
-    "Spring/Anotations/Componentes/Registrar Componentes.md",
-    "Spring/Anotations/Anotations.md",
-    "Spring/Anotations/Componentes/@Component.md",
+    "Spring/Carga&Redirect&Forward.md",
     "Spring/POJO.md",
+    "PostMapping.md",
+    "_assets/Pasted image 20231123075011.png",
+    "Java/JPA.md",
+    "Spring/Record & Clases.md",
+    "Spring/Anotations/Contexto",
     "Spring/Anotations/Componentes",
-    "Spring/Anotations/Componentes/@Bean.md",
-    "@AutoWirde.md",
-    "Spring/Anotations/Componentes/@AutoWired.md",
     "Carga/Redirect",
     "Carga",
     "Java/Metodos de List",

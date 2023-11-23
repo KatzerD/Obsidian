@@ -1,3 +1,3 @@
 [[Java]]
 [[DAO]]
-[[Decoradores]]
+[[Entidades]]
