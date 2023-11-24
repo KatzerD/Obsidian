@@ -2,10 +2,10 @@ Esta anotación es usada en las clases que queremos que sean nuestros Beans a se
 
 Existen variaciones del @Component que simplemente son representaciones de este mismo pero con nombres distintos. Las cuales son
 
-- @Service
-- @Models
-- @Controller
-- @Repository
+- [[@Service]]
+- [[@Models]]
+- [[@Controller]]
+- [[@Repository]]
 
 Es buena practica anotar cada clase con la anotación que le corresponda.
 
