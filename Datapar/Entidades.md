@@ -7,9 +7,10 @@ Una entidad debe implementar la Interfaz ``Serializable`` y crearse una ``serial
 [[@Table]]
 [[@Column]]
 [[@Id]]
-[[@GeneratedValue]]
 [[@Temporal]]
-
+[[@ManyToOne]]
+[[@OneToMany]]
+[[@ManyToMany]]
 # Ejemplo de Entidad
 
 ```java

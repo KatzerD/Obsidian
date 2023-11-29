@@ -6,6 +6,7 @@ Existen variaciones del @Component que simplemente son representaciones de este 
 - [[@Models]]
 - [[@Controller]]
 - [[@Repository]]
+- [[@ControllerAdvice]]
 
 Es buena practica anotar cada clase con la anotación que le corresponda.
 
