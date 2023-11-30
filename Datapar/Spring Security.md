@@ -1,4 +1,4 @@
-[[Spring Boot]]
+
 
 Spring Security provee características de seguridad para aplicaciones empresariales Java EE.
 
