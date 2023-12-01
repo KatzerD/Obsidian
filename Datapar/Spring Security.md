@@ -14,4 +14,4 @@ Maneja componentes de  "Autenticación" y "Autorización".
 - Logout
 
 # Clase para configuración de la seguridad
-[[SpringSecurityConfig]]
+[[Iniciar Spring Security - SpringSecurityConfig]]

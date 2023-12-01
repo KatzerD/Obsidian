@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringSecurityConfig.md",
+                "file": "Iniciar Spring Security - SpringSecurityConfig.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringSecurityConfig.md",
+                "file": "Iniciar Spring Security - SpringSecurityConfig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringSecurityConfig.md",
+                "file": "Iniciar Spring Security - SpringSecurityConfig.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringSecurityConfig.md"
+                "file": "Iniciar Spring Security - SpringSecurityConfig.md"
               }
             }
           }
@@ -152,7 +152,7 @@
   "lastOpenFiles": [
     "Spring Security.md",
     "Spring/Spring Boot.md",
-    "SpringSecurityConfig.md",
+    "Iniciar Spring Security - SpringSecurityConfig.md",
     "mappedBy=..., fetch=... , cascade=....md",
     "@JoinColumn.md",
     "@ManyToOne.md",
