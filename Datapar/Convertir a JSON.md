@@ -1,0 +1,4 @@
+[[@JsonIgnore]]
+[[@JsonIgnoreProperties]]
+[[@JsonManagedReference]]
+[[@JsonBackReference]]

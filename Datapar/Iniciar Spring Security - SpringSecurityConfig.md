@@ -151,3 +151,9 @@ Que significa Cross Site Request Forgery (Falsificación de Peticiones en Sitios
 
 Spring Security ya maneja de manera automática la protección contra CSRF, por lo que si creamos un formulario de Login nuevo este ya tendrá el input de tipo hidden con el nombre y valor del`` _csrf``, pero se puede agregar de forma manual con Thymelyef 
 	`<input type="hidden" name="${_csrf.parameterName}" value="${_csrf-token}" />`
+
+# Thymeleaf Security
+[[Thymeleaf security]]
+
+# Anotaciones
+[[@EnableMethodSecurity()]]

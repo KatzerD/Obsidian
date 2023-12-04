@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iniciar Spring Security - SpringSecurityConfig.md",
+                "file": "Convertir API-REST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "653f9421111eedcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@RestController.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iniciar Spring Security - SpringSecurityConfig.md",
+                "file": "@RestController.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iniciar Spring Security - SpringSecurityConfig.md",
+                "file": "@RestController.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iniciar Spring Security - SpringSecurityConfig.md"
+                "file": "@RestController.md"
               }
             }
           }
@@ -148,11 +160,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6be9dd09b9dbebf0",
+  "active": "653f9421111eedcd",
   "lastOpenFiles": [
-    "Spring Security.md",
-    "Spring/Spring Boot.md",
+    "Convertir API-REST.md",
+    "@RestController.md",
+    "View Technologies.md",
+    "Convertir a JSON.md",
+    "JsonManagedReference.md",
     "Iniciar Spring Security - SpringSecurityConfig.md",
+    "Spring Security.md",
+    "Thymeleaf security.md",
+    "Convertir a XML.md",
+    "@EnableMethodSecurity().md",
+    "@PreAuthorize.md",
+    "@Secured.md",
+    "Spring/Spring Boot.md",
     "mappedBy=..., fetch=... , cascade=....md",
     "@JoinColumn.md",
     "@ManyToOne.md",
@@ -166,16 +188,6 @@
     "Spring/Anotations/Componentes/@Component.md",
     "CrudRepository.md",
     "JpaRepository.md",
-    "Java/JPA.md",
-    "@Repository.md",
-    "DAO.md",
-    "Uso de Service.md",
-    "@Service.md",
-    "@PersistenceContext.md",
-    "Spring/Anotations/Componentes/@Bean.md",
-    "Spring/Anotations/Componentes/Registrar Componentes.md",
-    "Spring/Anotations/Anotations.md",
-    "Spring/Anotations/Componentes/Ciclo de vida.md",
     "_assets/Pasted image 20231123075011.png",
     "Spring/Anotations/Contexto",
     "Spring/Anotations/Componentes",
